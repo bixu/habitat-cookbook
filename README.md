@@ -1,4 +1,3 @@
-# habitat-cookbook
+A minimal cookbook for installing the Habitat binary on a host.
 
-TODO: Enter the cookbook description here.
-
+Github-style pull requests are welcome!
