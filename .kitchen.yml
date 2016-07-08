@@ -15,4 +15,4 @@ platforms:
 suites:
   - name: default
     run_list:
-      - recipe[habitat::default]
+      - recipe[habitat-cookbook::default]

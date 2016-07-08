@@ -1,4 +1,4 @@
-name 'habitat'
+name 'habitat-cookbook'
 maintainer 'Blake Irvin'
 maintainer_email 'blake.irvin@gmail.com'
 license 'MIT'
